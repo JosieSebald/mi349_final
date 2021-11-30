@@ -22,12 +22,12 @@ nav {
     padding-bottom: 17px;
     text-align: center;
     display: inline-block;
-    margin-top: 17px;
 }
 
 a[href$=".html"] {
     /* Any link ending in .html turns black */
     color: black;
+    text-align: center;
     padding-left: 20px;
     padding-right: 20px;
     padding-top: 10px;
