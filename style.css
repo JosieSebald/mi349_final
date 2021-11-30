@@ -106,7 +106,6 @@ image {
 .profile-pic {
     width: 500px;
     border: 5px solid black;
-    vertical-align: bottom;
     line-height: 0;
     margin: 20px;
     display: inline-block;
