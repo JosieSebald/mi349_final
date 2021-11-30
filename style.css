@@ -93,6 +93,7 @@ image {
 
 
 .about {
+    font-side: 1.5em;
     text-align: left;
     vertical-align: top;
     width: 500px;
