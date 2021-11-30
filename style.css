@@ -10,8 +10,9 @@ body {
 h1 {
     font-size: 3.4em;
     font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-        margin: 15px;
-display: inline-block;
+    margin: 15px;
+    padding: 20px;
+    display: inline-block;
 }
 
 nav {
@@ -51,6 +52,7 @@ image {
 .header {
     text-align: center;
     margin: 20px;
+    padding: 20px;
 }
 
 .intro {
