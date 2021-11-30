@@ -94,7 +94,7 @@ image {
 
 .about {
     text-align: left;
-    position: relative;
+    vertical-align: top;
     width: 500px;
     line-height: 2em;
     display: inline-block;
