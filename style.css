@@ -25,7 +25,7 @@ display: inline-block;
 }
 
 article {
-    background-color: rgb(231, 120, 138)
+    background-color: rgb(231, 120, 138);
 }
 
 image {
@@ -42,17 +42,14 @@ image {
 
 .personal {
     list-style-type: none;
-    width: 200px;
 }
 
 .commissions {
     list-style-type: none;
-    width: 200px;
 }
 
 .school {
     list-style-type: none;
-    width: 200px;
 }
 
 /* Sections */
