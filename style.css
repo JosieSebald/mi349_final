@@ -29,6 +29,7 @@ article {
     margin: 15px;
     padding: 20px;
     border: 20px;
+    list-style-type: none;
 }
 
 image {
@@ -45,14 +46,17 @@ image {
 
 .personal {
     list-style-type: none;
+    flex: 1;
 }
 
 .commissions {
     list-style-type: none;
+    flex: 1;
 }
 
 .school {
     list-style-type: none;
+    flex: 1;
 }
 
 /* Sections */
