@@ -29,7 +29,6 @@ article {
     margin: 15px;
     padding: 20px;
     border: 20px;
-    list-style-type: none;
 }
 
 image {
@@ -37,6 +36,11 @@ image {
 }
 
 /* Classes */
+.header {
+    text-align: center;
+    margin: 20px;
+}
+
 .intro {
     padding: 20px;
     margin: 10px;
