@@ -16,6 +16,7 @@ display: inline-block;
 
 nav {
     background-color: black;
+    padding: 20px;
     text-align: center;
     display: inline-block;
 }
