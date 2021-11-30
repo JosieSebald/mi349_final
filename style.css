@@ -3,13 +3,15 @@ html {
 }
 
 body {
-    background-color: rgb(221, 172, 180);
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: rgb(224, 197, 201);
+    font-family: Arial, Helvetica, sans-serif;
 }
 
 h1 {
 font-size: 3.4em;
+font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 margin: 15px;
+display: inline-block;
 }
 
 nav {
@@ -19,8 +21,9 @@ margin: 10px;
 padding: 10px;
 border: 3px solid black;
 text-align: center;
+display: inline-block;
 }
 
 article {
-    background-color: rgb(231, 120, 157)
+    background-color: rgb(231, 120, 138)
 }
