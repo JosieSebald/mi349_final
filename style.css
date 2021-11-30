@@ -47,6 +47,8 @@ article {
 article ul {
     list-style-type: none;
     text-align: center;
+    margin: none;
+    padding-bottom: 10px;
 }
 
 image {
