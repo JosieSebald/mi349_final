@@ -53,6 +53,7 @@ article ul {
 
 figcaption {
     padding: 5px;
+    border-bottom: 15px;
     line-height: 1.3em;
 }
 
