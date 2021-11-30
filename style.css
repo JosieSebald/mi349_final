@@ -12,7 +12,6 @@ h1 {
     font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     margin: 15px;
     display: inline-block;
-    position: relative;
 }
 
 nav {
@@ -23,7 +22,7 @@ nav {
     padding-bottom: 17px;
     text-align: center;
     display: inline-block;
-    position: relative;
+    margin-top: -10px;
 }
 
 a[href$=".html"] {
