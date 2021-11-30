@@ -17,8 +17,8 @@ display: inline-block;
 nav {
 background-color: gray;
 color: black;
-margin: 10px;
-padding: 10px;
+margin: 15px;
+padding: 15px;
 border: 3px solid black;
 text-align: center;
 display: inline-block;
@@ -26,4 +26,10 @@ display: inline-block;
 
 article {
     background-color: rgb(231, 120, 138)
+}
+
+.intro {
+    padding: 20px;
+    margin: 10px;
+    text-align: center;
 }
