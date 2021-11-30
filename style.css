@@ -52,7 +52,8 @@ article ul {
 }
 
 figcaption {
-padding: 5px;
+    padding: 5px;
+    line-height: 1.3em;
 }
 
 image {
