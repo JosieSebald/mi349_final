@@ -101,7 +101,7 @@ image {
 }
 
 .profile {
-    width: 75%;
+    width: 300px;
     border: 5px solid black;
     display: inline-block;
 }
