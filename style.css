@@ -44,6 +44,10 @@ article {
     border: 20px;
 }
 
+article ul {
+    list-style-type: none;
+}
+
 image {
     width: 100%;
 }
@@ -63,19 +67,16 @@ image {
 
 .personal {
     margin: 20px;
-    list-style-type: none;
     flex-grow: 1;
 }
 
 .commissions {
     margin: 20px;
-    list-style-type: none;
     flex-grow: 1;
 }
 
 .school {
     margin: 20px;
-    list-style-type: none;
     flex-grow: 1;
 }
 
