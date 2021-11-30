@@ -97,11 +97,13 @@ image {
     text-align: left;
     width: 500px;
     line-height: 1.5em;
+    display: inline-block;
 }
 
 .profile {
-    width: 400px;
+    width: 75%;
     border: 5px solid black;
+    display: inline-block;
 }
 
 /* Sections */
@@ -110,6 +112,5 @@ image {
 }
 
 #about-me {
-    display: flex;
     text-align: left;
 }
