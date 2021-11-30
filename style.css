@@ -62,18 +62,24 @@ image {
 }
 
 .personal {
+    padding: 30px;
+    margin: 20px;
     list-style-type: none;
-    flex: 1;
+    flex-grow: 1;
 }
 
 .commissions {
+    padding: 30px;
+    margin: 20px;
     list-style-type: none;
-    flex: 1;
+    flex-grow: 1;
 }
 
 .school {
+    padding: 30px;
+    margin: 20px;
     list-style-type: none;
-    flex: 1;
+    flex-grow: 1;
 }
 
 /* Sections */
