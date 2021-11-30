@@ -101,6 +101,7 @@ image {
     padding: 20px;
     border: 10px;
     margin: 5px;
+    flex: 1;
 }
 
 .profile-pic {
@@ -109,6 +110,7 @@ image {
     border: 5px solid black;
     margin: 30px;
     display: inline-block;
+    flex: 1;
 }
 
 /* Sections */
@@ -118,4 +120,5 @@ image {
 
 #about-me {
     text-align: left;
+    display: flex;
 }
