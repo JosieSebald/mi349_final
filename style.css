@@ -75,21 +75,18 @@ image {
 
 .personal {
     margin: 20px;
-    flex-grow: 1;
     flex-wrap: wrap;
     text-align: center;
 }
 
 .commissions {
     margin: 20px;
-    flex-grow: 1;
     flex-wrap: wrap;
     text-align: center;
 }
 
 .school {
     margin: 20px;
-    flex-grow: 1;
     flex-wrap: wrap;
     text-align: center;
 }
