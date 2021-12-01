@@ -123,7 +123,6 @@ image {
     display: flex;
     width: 100%;
     flex-shrink: 1;
-    flex-wrap: wrap;
 }
 
 #about-me {
