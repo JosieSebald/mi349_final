@@ -75,21 +75,24 @@ image {
 
 .personal {
     margin: 20px;
-    flex-grow: 1;
+    flex-grow: 1 400;
+    flex-wrap: wrap;
     text-align: center;
     justify-content: center;
 }
 
 .commissions {
     margin: 20px;
-    flex-grow: 1;
+    flex-grow: 1 400;
+    flex-wrap: wrap;
     text-align: center;
     justify-content: center;
 }
 
 .school {
     margin: 20px;
-    flex-grow: 1;
+    flex-grow: 1 400;
+    flex-wrap: wrap;
     text-align: center;
     justify-content: center;
 }
