@@ -77,18 +77,21 @@ image {
     margin: 20px;
     flex-wrap: wrap;
     text-align: center;
+    justify-content: center;
 }
 
 .commissions {
     margin: 20px;
     flex-wrap: wrap;
     text-align: center;
+    justify-content: center;
 }
 
 .school {
     margin: 20px;
     flex-wrap: wrap;
     text-align: center;
+    justify-content: center;
 }
 
 
