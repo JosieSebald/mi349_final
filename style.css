@@ -121,6 +121,8 @@ image {
 /* Sections */
 #home-images {
     display: flex;
+    flex-grow: 1;
+    flex-wrap: wrap;
 }
 
 #about-me {
