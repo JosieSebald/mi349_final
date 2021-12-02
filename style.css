@@ -75,7 +75,7 @@ image {
 
 .personal {
     margin: 20px;
-    flex-shrink: 1;
+    flex: 1;
     flex-wrap: wrap;
     text-align: center;
     justify-content: center;
@@ -84,7 +84,7 @@ image {
 
 .commissions {
     margin: 20px;
-    flex-shrink: 1;
+    flex: 1;
     flex-wrap: wrap;
     text-align: center;
     justify-content: center;
@@ -93,7 +93,7 @@ image {
 
 .school {
     margin: 20px;
-    flex-shrink: 1;
+    flex: 1;
     flex-wrap: wrap;
     text-align: center;
     justify-content: center;
