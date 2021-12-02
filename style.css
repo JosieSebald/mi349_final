@@ -10,7 +10,9 @@ body {
 h1 {
     font-size: 3.4em;
     font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-    margin: 20px;
+    margin-top: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
     display: inline-block;
 }
 
@@ -20,7 +22,6 @@ nav {
     padding-right: 10px;
     padding-top: 17px;
     padding-bottom: 17px;
-    margin-bottom: 50px;
     text-align: center;
     display: inline-block;
 }
