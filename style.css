@@ -226,6 +226,11 @@ line-height: 1.5em;
 }
 
 @media (max-width: 755px) {
+
+    h1 {
+        font-size: 2em;
+    }
+    
     .commission {
         width: 350px
     }
