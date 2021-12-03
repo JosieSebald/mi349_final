@@ -22,6 +22,7 @@ nav {
     padding-top: 17px;
     padding-bottom: 17px;
     display: inline-block;
+    vertical-align: middle;
 }
 
 a[href$=".html"] {
