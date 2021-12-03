@@ -294,8 +294,10 @@ line-height: 1.5em;
     }
 
     .about {
-        display: block;
+        display: flex;
+        flex-wrap: wrap;
         text-align: center;
+        line-height: 1.5em;
         width: 300px;
     }
 
