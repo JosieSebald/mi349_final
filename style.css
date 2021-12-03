@@ -88,7 +88,7 @@ img {
 }
 
 .personal ul {
-    padding: none;
+    padding: 0;
 }
 
 .personal {
@@ -100,7 +100,7 @@ img {
 }
 
 .commissions ul {
-    padding: none;
+    padding: 0;
 }
 
 .commissions {
@@ -112,7 +112,7 @@ img {
 }
 
 .school ul {
-    padding: none;
+    padding: 0;
 }
 
 .school {
