@@ -36,6 +36,8 @@ a[href$=".html"] {
     border: 3px solid black;
     background-color:rgb(172, 172, 172);
     text-decoration: none;
+    display: inline-block;
+    vertical-align: middle;
 }
 
 article {
