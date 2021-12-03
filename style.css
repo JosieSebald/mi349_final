@@ -131,12 +131,13 @@ img {
 }
 
 .commission {
-    flex: 4;
+    flex: 1;
+    justify-content: center;
     border: 5px solid black;
 }
 
 .contact-methods {
-    flex: 1;
+    flex: 4;
     padding: 10px;
     text-align: center;
     justify-content: center;
