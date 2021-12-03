@@ -133,7 +133,6 @@ img {
 /* Sections */
 #home-images {
     display: flex;
-    flex-wrap: wrap;
     flex: 1;
     width: 100%;
 }
@@ -144,3 +143,5 @@ img {
     justify-content: center;
     align-items: center;
 }
+
+/* Media Query */
