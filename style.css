@@ -243,7 +243,15 @@ line-height: 1.5em;
     padding-bottom: 8px;
     }
 
+    a[href$=".html"] { 
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    }
+
     #home-images {
         max-width: 400px;
+        vertical-align: middle;
     }
 }
