@@ -66,6 +66,8 @@ figcaption {
 image {
     object-fit: cover;
     width: 100%;
+    min-width: 200px;
+    max-width: 450px;
 }
 
 /* Classes */
