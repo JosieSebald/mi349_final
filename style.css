@@ -153,6 +153,7 @@ img {
 .contact-methods li {
     width: 50px;
     display: inline-block;
+    padding: 20px 10px;
 
 }
 
