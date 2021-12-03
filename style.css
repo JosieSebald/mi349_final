@@ -293,6 +293,16 @@ line-height: 1.5em;
         font-size: 1em;
     }
 
+    .about {
+        display: block;
+        text-align: center;
+        width: 300px;
+    }
+
+    .profile-pic {
+        display: block;
+    }
+
     .contact-methods {
         width: 300px;
     }
