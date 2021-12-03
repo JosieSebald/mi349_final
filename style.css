@@ -87,6 +87,10 @@ img {
     line-height: 1.5em;
 }
 
+.personal ul {
+    padding: none;
+}
+
 .personal {
     margin: 20px;
     flex: 1;
@@ -95,12 +99,20 @@ img {
     justify-content: center;
 }
 
+.commissions ul {
+    padding: none;
+}
+
 .commissions {
     margin: 20px;
     flex: 1;
     flex-wrap: wrap;
     text-align: center;
     justify-content: center;
+}
+
+.school ul {
+    padding: none;
 }
 
 .school {
