@@ -31,6 +31,10 @@ nav {
     vertical-align: middle;
 }
 
+p {
+    text-align: center;
+}
+
 a[href$=".html"] {
     /* Any link ending in .html turns black */
     color: black;
