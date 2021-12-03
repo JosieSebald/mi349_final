@@ -85,6 +85,7 @@ image {
     flex-wrap: wrap;
     text-align: center;
     justify-content: center;
+    width: 400px;
 }
 
 .commissions {
@@ -93,6 +94,7 @@ image {
     flex-wrap: wrap;
     text-align: center;
     justify-content: center;
+    width: 400px;
 }
 
 .school {
@@ -101,6 +103,7 @@ image {
     flex-wrap: wrap;
     text-align: center;
     justify-content: center;
+    width: 400px;
 }
 
 
