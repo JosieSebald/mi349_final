@@ -145,11 +145,8 @@ img {
 .contact-methods {
     flex-grow: 1;
     padding: 10px;
-    margin-left: 100px;
-    margin-right: 100px;
     text-align: center;
     justify-content: center;
-    max-height: 200px;
 }
 
 /* Sections */
