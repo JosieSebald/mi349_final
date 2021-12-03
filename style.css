@@ -155,13 +155,12 @@ img {
     text-align: center;
     justify-content: center;
     list-style-type: none;
-    width: 60px;
-    height: 100px;
 }
 .contact-methods li {
-    
+    width: 60px;
+    height: auto;
     display: inline-block;
-    padding: 30px 10px;
+    padding: 50px 10px;
 
 }
 
