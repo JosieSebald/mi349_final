@@ -147,6 +147,12 @@ img {
     padding: 10px;
     text-align: center;
     justify-content: center;
+    list-style-type: none;
+}
+.contact-methods li {
+    width: 50px;
+    display: inline-block;
+
 }
 
 /* Sections */
