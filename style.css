@@ -155,10 +155,11 @@ img {
     text-align: center;
     justify-content: center;
     list-style-type: none;
-}
-.contact-methods li {
     width: 60px;
     height: 100px;
+}
+.contact-methods li {
+    
     display: inline-block;
     padding: 30px 10px;
 
