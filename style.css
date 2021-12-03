@@ -147,6 +147,7 @@ img {
 /* Media Query */
 @media (max-width: 1095) {
     #home-images {
+        width: 400px;
         flex-wrap: wrap;
         justify-content: center;
     }
