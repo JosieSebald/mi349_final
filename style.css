@@ -64,6 +64,7 @@ figcaption {
 
 image {
     width: 100%;
+    object-fit: contain;
 }
 
 /* Classes */
@@ -85,7 +86,6 @@ image {
     flex-wrap: wrap;
     text-align: center;
     justify-content: center;
-    width: 400px;
 }
 
 .commissions {
@@ -94,7 +94,6 @@ image {
     flex-wrap: wrap;
     text-align: center;
     justify-content: center;
-    width: 400px;
 }
 
 .school {
@@ -103,7 +102,6 @@ image {
     flex-wrap: wrap;
     text-align: center;
     justify-content: center;
-    width: 400px;
 }
 
 
