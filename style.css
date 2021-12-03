@@ -139,6 +139,7 @@ img {
     text-align: center;
     justify-content: center;
     border: 5px solid black;
+    line-height: 0;
 }
 
 .contact-methods {
