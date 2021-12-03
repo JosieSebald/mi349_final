@@ -11,6 +11,7 @@ h1 {
     font-size: 3.4em;
     font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     margin: 20px;
+    padding-right: 30px;
     display: inline-block;
     vertical-align: middle;
 }
@@ -37,7 +38,6 @@ a[href$=".html"] {
     border: 3px solid black;
     background-color:rgb(172, 172, 172);
     text-decoration: none;
-    display: inline-block;
 }
 
 article {
