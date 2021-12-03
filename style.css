@@ -156,6 +156,7 @@ img {
     width: 60px;
     height: auto;
     padding: 50px 10px;
+    text-align: center;
 }
 
 .contact-methods li a img:hover {
