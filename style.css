@@ -144,16 +144,17 @@ img {
 
 .contact-methods {
     flex-grow: 1;
-    padding: 10px;
+    padding: 0;
     margin: 0;
+    width: 500px;
     text-align: center;
     justify-content: center;
     list-style-type: none;
 }
 .contact-methods li {
-    width: 120px;
+    width: 60px;
     display: inline-block;
-    padding: 20px 10px;
+    padding: 30px 10px;
 
 }
 
