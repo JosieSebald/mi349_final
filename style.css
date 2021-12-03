@@ -148,6 +148,8 @@ img {
     margin-left: auto;
     margin-right: auto;
     list-style-type: none;
+    text-align: center;
+    justify-content: center;
 }
 .contact-methods li {
     display: inline-block;
@@ -156,8 +158,6 @@ img {
     width: 60px;
     height: auto;
     padding: 50px 10px;
-    text-align: center;
-    justify-content: center;
 }
 
 .contact-methods li a img:hover {
