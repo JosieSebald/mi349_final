@@ -130,6 +130,16 @@ img {
     display: inline-block;
 }
 
+.commission {
+    flex: 4;
+}
+
+.contact-methods {
+    flex: 1;
+    text-align: center;
+    justify-content: center;
+}
+
 /* Sections */
 #home-images {
     display: flex;
@@ -142,6 +152,11 @@ img {
     display: flex;
     justify-content: center;
     align-items: center;
+}
+
+#contact {
+    display: flex;
+    flex-flow: column;
 }
 
 /* Media Query */
