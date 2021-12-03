@@ -136,6 +136,7 @@ img {
 
 .commission {
     flex: 1;
+    text-align: center;
     justify-content: center;
     border: 5px solid black;
 }
