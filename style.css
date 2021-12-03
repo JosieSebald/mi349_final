@@ -147,8 +147,19 @@ img {
 /* Media Query */
 @media (max-width: 1095) {
     #home-images {
-        width: 400px;
         flex-wrap: wrap;
         justify-content: center;
+    }
+
+    .personal {
+        width: 400px;
+    }
+
+    .commissions {
+        width: 400px;
+    }
+
+    .school {
+        width: 400px;
     }
 }
