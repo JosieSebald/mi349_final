@@ -170,6 +170,8 @@ img {
     display: flex;
     flex-flow: column;
     max-width: 600px;
+    justify-content: center;
+    text-align: center;
 }
 
 /* Media Query */
