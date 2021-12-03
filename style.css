@@ -250,8 +250,15 @@ line-height: 1.5em;
     padding-bottom: 5px;
     }
 
-    #home-images {
-        max-width: 400px;
-        vertical-align: middle;
+    .personal {
+        max-width: 350px;
+    }
+
+    .commissions {
+        max-width: 350px;
+    }
+
+    .school {
+        max-width: 350px;
     }
 }
