@@ -151,12 +151,16 @@ img {
     text-align: center;
     justify-content: center;
 }
+
+.contact-methods ul {
+    padding: 0;
+}
+
 .contact-methods li {
     display: inline-block;
     margin-left: auto;
     margin-right: auto;
     width: 60px;
-    padding-left: -40px;
     height: auto;
 }
 
