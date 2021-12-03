@@ -141,7 +141,7 @@ img {
 }
 
 .contact-methods {
-    flex: 4;
+    flex: 1;
     padding: 10px;
     text-align: center;
     justify-content: center;
