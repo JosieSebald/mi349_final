@@ -303,6 +303,7 @@ line-height: 1.5em;
 
     .profile-pic {
         display: block;
+        width: 300px;
         flex-wrap: wrap;
     }
 
