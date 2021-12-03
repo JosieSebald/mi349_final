@@ -145,3 +145,9 @@ img {
 }
 
 /* Media Query */
+@media (max-width: 1095) {
+    #home-images {
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+}
