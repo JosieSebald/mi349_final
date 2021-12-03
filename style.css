@@ -127,8 +127,7 @@ img {
 }
 
 .profile-pic {
-    width: 500px;
-    border: 5px solid black;
+    outline: 5px solid black;
     line-height: 0;
     margin: 20px;
     display: inline-block;
