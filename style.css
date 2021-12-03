@@ -251,14 +251,14 @@ line-height: 1.5em;
     }
 
     .personal {
-        max-width: 350px;
+        max-width: 300px;
     }
 
     .commissions {
-        max-width: 350px;
+        max-width: 300px;
     }
 
     .school {
-        max-width: 350px;
+        max-width: 300px;
     }
 }
