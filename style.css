@@ -153,13 +153,10 @@ img {
     list-style-type: none;
 }
 .contact-methods li {
-    display: inline-block;
-    margin-left: auto;
-    margin-right: auto;
-    width: 60px;
-    height: auto;
-    padding: 50px 10px;
-
+    width: 30px;
+    display: inline-block; /* puts images next to each
+    other instead of on top of each other */
+    padding: 20px 10px; /* top and bottom, left and right */
 }
 
 .contact-methods li a img:hover {
