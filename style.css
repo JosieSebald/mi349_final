@@ -133,6 +133,7 @@ img {
 /* Sections */
 #home-images {
     display: flex;
+    flex-wrap: wrap;
     flex: 1;
     width: 100%;
 }
