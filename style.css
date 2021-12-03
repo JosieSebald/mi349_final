@@ -66,6 +66,8 @@ image {
 /* Classes */
 .header {
     text-align: center;
+    vertical-align: middle;
+    height: 140px;
 }
 
 .intro {
