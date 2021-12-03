@@ -135,7 +135,7 @@ img {
 }
 
 .commission {
-    flex: 4;
+    flex-grow: 4;
     text-align: center;
     justify-content: center;
     border: 5px solid black;
@@ -143,8 +143,10 @@ img {
 }
 
 .contact-methods {
-    flex: 1;
+    flex-grow: 1;
     padding: 10px;
+    margin-left: 100px;
+    margin-right: 100px;
     text-align: center;
     justify-content: center;
     max-height: 200px;
