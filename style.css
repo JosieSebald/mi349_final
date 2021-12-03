@@ -147,6 +147,7 @@ img {
     padding: 10px;
     text-align: center;
     justify-content: center;
+    max-width: 500px;
 }
 
 /* Sections */
