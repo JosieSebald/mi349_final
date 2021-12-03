@@ -13,6 +13,7 @@ h1 {
     font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     margin: 20px;
     padding-right: 30px;
+    padding-left: 30px;
     display: inline-block;
     vertical-align: middle;
 }
@@ -25,6 +26,7 @@ nav {
     padding-top: 17px;
     padding-bottom: 17px;
     margin-left: 50px;
+    margin-right: 50px;
     display: inline-block;
     vertical-align: middle;
 }
