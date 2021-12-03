@@ -143,6 +143,10 @@ img {
     display: inline-block;
 }
 
+.contact-text {
+    line-height: 1.5em;
+}
+
 .commission {
     width: 650px;
     display: block;
