@@ -135,7 +135,6 @@ img {
 }
 
 .commission {
-    flex-grow: 4;
     width: 450px;
     display: block;
     margin-left: auto;
@@ -147,7 +146,6 @@ img {
 }
 
 .contact-methods {
-    flex-grow: 1;
     display: block;
     margin-left: auto;
     margin-right: auto;
