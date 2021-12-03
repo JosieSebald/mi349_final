@@ -237,6 +237,8 @@ line-height: 1.5em;
     }
 
     nav {
+    margin-left: 25px;
+    margin-right: 25px;
     padding-left: 5px;
     padding-right: 5px;
     padding-top: 8px;
@@ -252,13 +254,38 @@ line-height: 1.5em;
 
     .personal {
         max-width: 300px;
+        margin: 10px;
     }
 
     .commissions {
         max-width: 300px;
+        margin: 10px;
     }
 
     .school {
         max-width: 300px;
+        margin: 10px;
+    }
+}
+
+@media (max-width: 455px){
+
+    nav {
+
+    }
+
+    .personal {
+        max-width: 260px;
+        margin: 10px;
+    }
+
+    .commissions {
+        max-width: 260px;
+        margin: 10px;
+    }
+
+    .school {
+        max-width: 260px;
+        margin: 10px;
     }
 }
