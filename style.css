@@ -169,6 +169,7 @@ img {
 #contact {
     display: flex;
     flex-flow: column;
+    max-width: 600px;
 }
 
 /* Media Query */
