@@ -135,7 +135,7 @@ img {
 }
 
 .commission {
-    flex: 1;
+    flex: 4;
     text-align: center;
     justify-content: center;
     border: 5px solid black;
@@ -146,6 +146,7 @@ img {
     padding: 10px;
     text-align: center;
     justify-content: center;
+    max-height: 200px;
 }
 
 /* Sections */
