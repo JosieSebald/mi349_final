@@ -164,6 +164,11 @@ img {
 
 }
 
+.contact-methods li a img:hover {
+    opacity: 0.5;
+    transition: opacity ease-in-out 0.2s;
+}
+
 /* Sections */
 #home-images {
     display: flex;
