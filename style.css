@@ -145,7 +145,6 @@ img {
 .contact-methods {
     flex-grow: 1;
     padding: 10px;
-    max-width: 600px;
     text-align: center;
     justify-content: center;
 }
