@@ -48,6 +48,11 @@ a[href$=".html"] {
     text-decoration: none;
 }
 
+a[href$=".html"]:hover {
+    opacity: 0.5;
+    transition: opacity ease-in-out 0.2s;
+}
+
 article {
     background-color: rgb(231, 120, 138);
     margin: 15px;
