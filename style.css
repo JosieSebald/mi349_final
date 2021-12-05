@@ -91,6 +91,11 @@ img {
     font-family: 'Copperplate Gothic Bold';
 }
 
+@font-face {
+    font-family: 'Copperplate Gothic Bold Regular';
+    src: local('Copperplate Gothic Bold Regular')url(../fonts/Copperplate);
+}
+
 .intro {
     padding: 20px;
     margin: 10px;
