@@ -21,6 +21,7 @@ h1 {
 
 nav {
     background-color: black;
+    font-family: Arial, Helvetica, sans-serif;
     text-align: center;
     padding-left: 10px;
     padding-right: 10px;
@@ -88,12 +89,6 @@ img {
 .header {
     text-align: center;
     vertical-align: middle;
-    font-family: 'Copperplate Gothic Bold';
-}
-
-@font-face {
-    font-family: 'Copperplate Gothic Bold Regular';
-    src: local('Copperplate Gothic Bold Regular')url(../fonts/Copperplate);
 }
 
 .intro {
